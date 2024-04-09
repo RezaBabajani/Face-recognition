@@ -1,0 +1,5 @@
+opencv
+pyttsx3
+SpeechRecognition
+pyaudio
+face_recognition
